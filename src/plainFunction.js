@@ -4,8 +4,7 @@ import React from 'react';
 
 function PlainFunction({firstName,lastName}){
   return <div>
-    <h4 style={{textDecoration: "underline"}}>Plain Function Task :</h4>
-    <p style={{fontSize: "18px", color: "darkred"}}>Hello, My name is <strong>{firstName} {lastName}</strong>! This a basic example from Dev Ceddia React Tutorial</p>
+    <p style={{fontSize: "18px", color: "darkblue"}}>Hello, My name is <strong>{firstName} {lastName}</strong>! I am a Coder Cat!</p>
     </div>;
 }
 

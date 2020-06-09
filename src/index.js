@@ -9,13 +9,13 @@ import './index.css';
 const Assignments = () => {
     return (
     <div className="assignmentDiv">
-        <h3>React Practice Tasks</h3>
-        <PlainFunction firstName="Imran" lastName="Munawar"/>
-        <ArrowFunction firstName="Imran" lastName="Munawar"/>
-        <MediaCard title="Profile Picture" body="This is the body of the Media Card" imageUrl="https://picsum.photos/seed/picsum/220/100"/>
-        <Gate isOpen={false}/>
+        <h3>Bootcamp 2020 - React Assignment 3</h3>
+        <PlainFunction firstName="Joey" lastName="Coon"/>
+        <ArrowFunction/>
+        <MediaCard title="Below is my pic" body="I know .. I know .. I am so Majestic!" imageUrl="https://i.pinimg.com/originals/5f/ff/5c/5fff5c8d4a97503b5c45ab0d43e992aa.jpg"/>
+        <Gate isOpen={false}/>  
 
-        Made By <a href="pk.linkedin.com/in/imran-munawar-09aa83118" style={{color: "#000000"}}><strong>IMRAN MUNAWAR</strong></a>
+        My human's name is <strong>Samra </strong>
     </div>
     )
 }
