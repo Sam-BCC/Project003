@@ -10,7 +10,7 @@ const Assignments = () => {
     return (
     <div className="assignmentDiv">
         <h3>Bootcamp 2020 - React Assignment 3</h3>
-        <PlainFunction firstName="Joey" lastName="Coon"/>
+        <PlainFunction firstName="Tarzan" lastName="Coon"/>
         <ArrowFunction/>
         <MediaCard title="Below is my pic" body="I know .. I know .. I am so Majestic!" imageUrl="https://i.pinimg.com/originals/5f/ff/5c/5fff5c8d4a97503b5c45ab0d43e992aa.jpg"/>
         <Gate isOpen={false}/>  
